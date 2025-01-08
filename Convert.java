@@ -1,6 +1,3 @@
-//Note: You have access to all of Java IO and Java Utility here. Make good use of them!
-//No additional imports allowed.
-
 import java.io.*;
 import java.util.*;
 
